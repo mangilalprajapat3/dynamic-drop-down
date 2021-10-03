@@ -13,11 +13,11 @@
 <p>cd dynamic-drop-down</p>
 <p>Open CMD and paste this </p>
 <ul>
-    <li>=> copy .env.example .env</li>
-    <li>=> php artisan key:generate</li>
-    <li>=> php artisan serve</li>
-    <li>=> php artisan migrate</li>
-    <li>=> Go to browser type URL: http://127.0.0.1:8000/</li>
+    <li>copy .env.example .env</li>
+    <li>php artisan key:generate</li>
+    <li>php artisan serve</li>
+    <li>php artisan migrate</li>
+    <li>Go to browser type URL: http://127.0.0.1:8000/</li>
 </ul>
 
 
