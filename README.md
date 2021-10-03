@@ -6,15 +6,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## How To Deployee Project In Localhost
-Download and paste in xampp/htdocs
-cd dynamic-drop-down
-Open CMD and paste this 
-=> copy .env.example .env
-=> php artisan key:generate
-=> php artisan serve
-=> php artisan migrate
-=> Go to browser type URL: http://127.0.0.1:8000/
+
+<p>Download and paste in xampp/htdocs</p>
+<p>cd dynamic-drop-down</p>
+<p>Open CMD and paste this </p>
+<ul>
+    <li>=> copy .env.example .env</li>
+    <li>=> php artisan key:generate</li>
+    <li>=> php artisan serve</li>
+    <li>=> php artisan migrate</li>
+    <li>=> Go to browser type URL: http://127.0.0.1:8000/</li>
+</ul>
+
 
 ## About Laravel
 
